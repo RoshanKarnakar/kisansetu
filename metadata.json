@@ -1,0 +1,6 @@
+{
+  "name": "KisanSetu",
+  "description": "Farmer crop procurement slot booking, live queue management, and payment tracking portal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
